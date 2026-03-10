@@ -1,47 +1,63 @@
-# Vampire Hunter
+<div align="center">
 
-## 🧛 Description (EN)
+# 🧛 Vampire Hunter / Vampir Avcısı
 
-**Vampire Hunter** is a 2D action-survival game inspired by *Vampire Survivors*.  
-
-In this game, enemies and bosses attack in endless waves. You must defeat them, collect dropped **gems**, and **level up** your character.  
-
-The game features:
-- Multiple unique **characters** with different starting weapons and abilities.
-- **Wave-based combat** with increasing difficulty.
-- **Weapon upgrades** and character progression.
-- **Procedural map generation** for infinite variation.
-- **Breakable objects** that can drop **health potions**.
-- A satisfying survival loop with continuous pressure from enemies.
-
-🔗 **[Game Files (Google Drive)](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link)**  
-🎮 **[Playable Build (Google Drive)](https://drive.google.com/file/d/1GdoEhbJ3FLLyDj8Rch6jZ0JLiUJ0GFFa/view?usp=drive_link)**
-
-### 🖼️ Sample Gameplay Screenshot
+> *A 2D action-survival game — fight endless waves of vampires and live to tell the tale.*
+> *Sonsuz vampir dalgalarına karşı hayatta kal ve efsaneni yaz.*
 
 ![Gameplay](https://drive.google.com/uc?export=view&id=10Cck9w2cqhQjtAdxgnqkwbGwNRI4PslT)
 
+[![Download](https://img.shields.io/badge/Download-Game%20Files-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link)
+[![Play](https://img.shields.io/badge/Play-Playable%20Build-red?style=for-the-badge&logo=gamepad)](https://drive.google.com/file/d/1GdoEhbJ3FLLyDj8Rch6jZ0JLiUJ0GFFa/view?usp=drive_link)
+
+</div>
+
 ---
 
-# Vampir Avcısı
+## 🇬🇧 Description
 
-## 🧛 Açıklama (TR)
+**Vampire Hunter** is a **2D action-survival game** inspired by *Vampire Survivors*.
+Face relentless hordes of enemies and powerful bosses, collect gems to level up, and see how long you can survive.
 
-**Vampir Avcısı**, *Vampire Survivors* tarzında yapılmış 2D bir aksiyon hayatta kalma oyunudur.  
+### ✨ Features
 
-Oyunda düşmanlar ve boss'lar dalga dalga üzerinize gelir. Siz de bu düşmanları yok edip düşürdükleri **taşları (gem)** toplayarak karakterinizi **seviye atlatırsınız**.  
+| Feature | Description |
+|---|---|
+| 🧙 **Multiple Characters** | Choose from unique heroes with different starting weapons and abilities |
+| 🌊 **Wave-Based Combat** | Survive increasingly difficult enemy waves |
+| ⚔️ **Weapon Upgrades** | Evolve your arsenal as you progress |
+| 🗺️ **Procedural Maps** | Every run is different — infinite map variation |
+| 💊 **Breakable Objects** | Smash crates and barrels for a chance to find health potions |
+| 🏆 **Survival Loop** | Constant pressure — the longer you survive, the harder it gets |
 
-Oyunun özellikleri:
-- Farklı **başlangıç silahları ve yeteneklere** sahip birden fazla karakter.
-- Artan zorlukla gelen **dalgalar halinde düşmanlar**.
-- **Silah geliştirme** ve karakter ilerleme sistemi.
-- **Sonsuz çeşitlilikte harita oluşturma** (procedural map generation).
-- **Kırılabilir nesnelerden** düşebilen **can potları**.
-- Her geçen saniye daha da zorlaşan bir **hayatta kalma deneyimi**.
+### 📥 Download
 
-🔗 **[Oyun Dosyaları (Google Drive)](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link)**  
-🎮 **[Oynanabilir Sürüm (Google Drive)](https://drive.google.com/file/d/1GdoEhbJ3FLLyDj8Rch6jZ0JLiUJ0GFFa/view?usp=drive_link)**
+| Link | Description |
+|---|---|
+| 🔗 [Game Files](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link) | Full project files on Google Drive |
+| 🎮 [Playable Build](https://drive.google.com/file/d/1GdoEhbJ3FLLyDj8Rch6jZ0JLiUJ0GFFa/view?usp=drive_link) | Ready-to-play executable on Google Drive |
 
-### 🖼️ Oyun İçi Görsel
+---
 
-![Oyun Görseli](https://drive.google.com/uc?export=view&id=10Cck9w2cqhQjtAdxgnqkwbGwNRI4PslT)
+## 🇹🇷 Açıklama
+
+**Vampir Avcısı**, *Vampire Survivors* ilhamıyla geliştirilmiş bir **2D aksiyon hayatta kalma oyunudur**.
+Bitmek bilmeyen düşman dalgalarına ve güçlü boss'lara karşı savaş, gem toplayarak seviye atla ve ne kadar dayanabileceğini test et.
+
+### ✨ Özellikler
+
+| Özellik | Açıklama |
+|---|---|
+| 🧙 **Çoklu Karakterler** | Farklı başlangıç silahları ve yeteneklere sahip kahramanlar arasından seç |
+| 🌊 **Dalga Savaşı** | Giderek zorlaşan düşman dalgalarından sağ çık |
+| ⚔️ **Silah Geliştirme** | İlerledikçe cephaneliğini güçlendir |
+| 🗺️ **Prosedürel Haritalar** | Her oyun farklı — sonsuz harita çeşitliliği |
+| 💊 **Kırılabilir Nesneler** | Sandık ve fıçıları kır, can posu bulmak için şansını dene |
+| 🏆 **Hayatta Kalma Döngüsü** | Sürekli baskı — ne kadar uzun hayatta kalırsan düşmanlar o kadar güçlenir |
+
+### 📥 İndirme
+
+| Bağlantı | Açıklama |
+|---|---|
+| 🔗 [Oyun Dosyaları](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link) | Tam proje dosyaları — Google Drive |
+| 🎮 [Oynanabilir Sürüm](https://drive.google.com/file/d/1GdoEhbJ3FLLyDj8Rch6jZ0JLiUJ0GFFa/view?usp=drive_link) | Oynanmaya hazır uygulama — Google Drive |
